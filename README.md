@@ -3,7 +3,7 @@ Ante el escenario de emergencia ante la pandemia del COVID-19, el equipo de desa
 
 La documentación referente al proyecto original de HelpAir está disponible en el siguiente repositorio:
 
-[www.gitlab.com/helpair/helpair](www.gitlab.com/helpair/helpair])
+[https://gitlab.com/helpair/helpair](https://gitlab.com/helpair/helpair)
 
 Ante la urgencia de la situación, el equipo de desarrollo de CI3 se ha centrado en el control por volumen en un régimen dirigido por la máquina (no asistido). Se trata del control más sencillo dentro de los distintos modos de funcionamiento de un respirador, pero uno que podría llegar a salvar vidas mientras se trabaja en otros acercamientos al problema.
 
