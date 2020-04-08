@@ -13,6 +13,16 @@ El equipo de desarrollo de CI3 presenta este prototipo como un recurso a disposi
 
 En los anexos del documento de diseño se puede encontrar los diferentes apartados del diseño, tales como neumática, control, sistema eléctrico, etc. así como una lista de componentes. Así mismo, se liberan planos y models 3D para su correcto montaje.
 
+# Advertencia
+
+**Un respirador es un equipo médico del que depende la vida de una persona, un mal funcionamiento puede resultar en graves daños o incluso la muerte.**
+
+**La documentación publicada de este proyecto permite el desarrollo de un prototipo de respirador para investigación.**
+
+**En ningún caso debe considerarse el prototipo helpAir como un equipo médico funcional, y no debe emplearse con humanos.**
+
+**Actualmente el prototipo NO ha sido validado por la Agencia Española del Medicamento.**
+
 # Descarga de responsabilidad
 Este es solo un modelo y diseño de respirador basado y diseñado con el objetivo de cumplir con los requisitos de Reino Unido y apoyado en la experiencia del equipo de Ferrovial y Sngular, HelpAir. 
 En esta segunda versión no se ha montado ningún prototipo ni se dispone de software funcional para este equipo. El software médico es un software crítico que debe de ser programado siguiendo estandares concretos. La Fundación CI3 no se hace responsable de un uso incorrecto o mal uso de este equipo, ni de un software no incluido en el diseño original.
